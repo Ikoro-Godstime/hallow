@@ -217,4 +217,11 @@ nav ul li a {
   .sm-w {
     width: 100%;
   }
+
+  .flex-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
